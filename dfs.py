@@ -1,4 +1,4 @@
-from test import Canvas
+from a_maze_ing import Canvas
 from Cell import Cell
 # from Direction import Direction
 import random
