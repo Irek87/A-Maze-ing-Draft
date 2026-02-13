@@ -1,7 +1,7 @@
 """Terminal maze renderer using block characters."""
 
 import time
-from Cell import Cell
+# from Cell import Cell
 from enum import Enum
 
 
